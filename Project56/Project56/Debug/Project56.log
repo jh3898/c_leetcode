@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jason\documents\visual studio 2015\projects\project56\project56\source.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  Project56.vcxproj -> c:\users\jason\documents\visual studio 2015\Projects\Project56\Debug\Project56.exe
+  Project56.vcxproj -> c:\users\jason\documents\visual studio 2015\Projects\Project56\Debug\Project56.pdb (Partial PDB)

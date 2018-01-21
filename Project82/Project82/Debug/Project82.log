@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\jason\documents\visual studio 2015\projects\project82\project82\source.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\project82\project82\source.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\project82\project82\source.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\project82\project82\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\project82\project82\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  Project82.vcxproj -> c:\users\jason\documents\visual studio 2015\Projects\Project82\Debug\Project82.exe
+  Project82.vcxproj -> c:\users\jason\documents\visual studio 2015\Projects\Project82\Debug\Project82.pdb (Partial PDB)

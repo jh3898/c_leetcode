@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\jason\documents\visual studio 2015\projects\project80\project80\source.cpp(27): error C2440: 'initializing': cannot convert from 'initializer list' to 'std::vector<Employee *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Employee *
+          ]
+  c:\users\jason\documents\visual studio 2015\projects\project80\project80\source.cpp(27): note: No constructor could take the source type, or constructor overload resolution was ambiguous

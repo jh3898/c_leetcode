@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jason\documents\visual studio 2015\projects\project47\project47\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\project47\project47\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  Project47.vcxproj -> c:\users\jason\documents\visual studio 2015\Projects\Project47\Debug\Project47.exe
+  Project47.vcxproj -> c:\users\jason\documents\visual studio 2015\Projects\Project47\Debug\Project47.pdb (Partial PDB)

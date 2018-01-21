@@ -1,0 +1,50 @@
+﻿  Source.cpp
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(31): error C2061: syntax error: identifier 'set'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(34): error C2065: 'queue': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(34): error C2275: 'QItem': illegal use of this type as an expression
+  c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(24): note: see declaration of 'QItem'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(34): error C2065: 'Q': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(36): error C2065: 'Q': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(36): error C2228: left of '.push' must have class/struct/union
+  c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(36): note: type is 'unknown-type'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(39): error C2065: 'Q': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(39): error C2228: left of '.empty' must have class/struct/union
+  c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(39): note: type is 'unknown-type'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(42): error C2065: 'Q': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(42): error C2228: left of '.front' must have class/struct/union
+  c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(42): note: type is 'unknown-type'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(43): error C2065: 'Q': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(43): error C2228: left of '.pop' must have class/struct/union
+  c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(43): note: type is 'unknown-type'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): error C2065: 'set': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): error C2275: 'std::string': illegal use of this type as an expression
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2634): note: see declaration of 'std::string'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): error C2955: 'std::iterator': use of class template requires template argument list
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(564): note: see declaration of 'std::iterator'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): error C2146: syntax error: missing ';' before identifier 'it'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): error C2143: syntax error: missing ';' before '='
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): error C2143: syntax error: missing ')' before '='
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): error C2059: syntax error: '='
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): error C2065: 'it': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): error C2065: 'D': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): error C2228: left of '.end' must have class/struct/union
+  c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): note: type is 'unknown-type'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(46): error C2059: syntax error: ')'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(50): error C2275: 'std::string': illegal use of this type as an expression
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2634): note: see declaration of 'std::string'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(50): error C2146: syntax error: missing ')' before identifier 'temp'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(51): error C2065: 'temp': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(54): error C2065: 'temp': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(56): error C2065: 'Q': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(56): error C2228: left of '.push' must have class/struct/union
+  c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(56): note: type is 'unknown-type'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(60): error C2065: 'D': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(60): error C2228: left of '.erase' must have class/struct/union
+  c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(60): note: type is 'unknown-type'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(60): error C2065: 'temp': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(63): error C2065: 'temp': undeclared identifier
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(68): error C2059: syntax error: 'return'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(69): error C2059: syntax error: '}'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(69): error C2143: syntax error: missing ';' before '}'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(73): error C2143: syntax error: missing ';' before '{'
+c:\users\jason\documents\visual studio 2015\projects\project54\project54\source.cpp(73): error C2447: '{': missing function header (old-style formal list?)
