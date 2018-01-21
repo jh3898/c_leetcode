@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project14.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LinkedList.cpp
+  Project14.vcxproj -> C:\Users\Jason\Documents\Visual Studio 2015\Projects\Project14\Debug\intro_to_singly_linked_list.exe
+  Project14.vcxproj -> C:\Users\Jason\Documents\Visual Studio 2015\Projects\Project14\Debug\intro_to_singly_linked_list.pdb (Partial PDB)
