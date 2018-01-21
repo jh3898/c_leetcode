@@ -1,0 +1,189 @@
+﻿  Source.cpp
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Vb_iterator<_Alloc> std::operator +(_Alloc::difference_type,std::_Vb_iterator<_Alloc>)': could not deduce template argument for 'std::_Vb_iterator<_Alloc>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(2310): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Vb_iterator<_Alloc> std::operator +(_Alloc::difference_type,std::_Vb_iterator<_Alloc>)': could not deduce template argument for 'std::_Vb_iterator<_Alloc>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(2310): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Vb_const_iterator<_Alloc> std::operator +(_Alloc::difference_type,std::_Vb_const_iterator<_Alloc>)': could not deduce template argument for 'std::_Vb_const_iterator<_Alloc>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(2203): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Vb_const_iterator<_Alloc> std::operator +(_Alloc::difference_type,std::_Vb_const_iterator<_Alloc>)': could not deduce template argument for 'std::_Vb_const_iterator<_Alloc>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(2203): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Vector_iterator<_Myvec> std::operator +(_Vector_iterator<_Myvec>::difference_type,std::_Vector_iterator<_Myvec>)': could not deduce template argument for 'std::_Vector_iterator<_Myvec>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(416): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Vector_iterator<_Myvec> std::operator +(_Vector_iterator<_Myvec>::difference_type,std::_Vector_iterator<_Myvec>)': could not deduce template argument for 'std::_Vector_iterator<_Myvec>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(416): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Vector_const_iterator<_Myvec> std::operator +(_Vector_const_iterator<_Myvec>::difference_type,std::_Vector_const_iterator<_Myvec>)': could not deduce template argument for 'std::_Vector_const_iterator<_Myvec>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(285): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Vector_const_iterator<_Myvec> std::operator +(_Vector_const_iterator<_Myvec>::difference_type,std::_Vector_const_iterator<_Myvec>)': could not deduce template argument for 'std::_Vector_const_iterator<_Myvec>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(285): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Deque_iterator<_Mydeque> std::operator +(_Deque_iterator<_Mydeque>::difference_type,std::_Deque_iterator<_Mydeque>)': could not deduce template argument for 'std::_Deque_iterator<_Mydeque>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\deque(675): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Deque_iterator<_Mydeque> std::operator +(_Deque_iterator<_Mydeque>::difference_type,std::_Deque_iterator<_Mydeque>)': could not deduce template argument for 'std::_Deque_iterator<_Mydeque>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\deque(675): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Deque_const_iterator<_Mydeque> std::operator +(_Deque_const_iterator<_Mydeque>::difference_type,std::_Deque_const_iterator<_Mydeque>)': could not deduce template argument for 'std::_Deque_const_iterator<_Mydeque>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\deque(542): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Deque_const_iterator<_Mydeque> std::operator +(_Deque_const_iterator<_Mydeque>::difference_type,std::_Deque_const_iterator<_Mydeque>)': could not deduce template argument for 'std::_Deque_const_iterator<_Mydeque>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\deque(542): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Deque_unchecked_iterator<_Mydeque> std::operator +(_Deque_unchecked_iterator<_Mydeque>::difference_type,std::_Deque_unchecked_iterator<_Mydeque>)': could not deduce template argument for 'std::_Deque_unchecked_iterator<_Mydeque>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\deque(271): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Deque_unchecked_iterator<_Mydeque> std::operator +(_Deque_unchecked_iterator<_Mydeque>::difference_type,std::_Deque_unchecked_iterator<_Mydeque>)': could not deduce template argument for 'std::_Deque_unchecked_iterator<_Mydeque>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\deque(271): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Deque_unchecked_const_iterator<_Mydeque> std::operator +(_Deque_unchecked_const_iterator<_Mydeque>::difference_type,std::_Deque_unchecked_const_iterator<_Mydeque>)': could not deduce template argument for 'std::_Deque_unchecked_const_iterator<_Mydeque>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\deque(166): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Deque_unchecked_const_iterator<_Mydeque> std::operator +(_Deque_unchecked_const_iterator<_Mydeque>::difference_type,std::_Deque_unchecked_const_iterator<_Mydeque>)': could not deduce template argument for 'std::_Deque_unchecked_const_iterator<_Mydeque>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\deque(166): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2446): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const _Elem *)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2436): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc>' from 'unsigned int (void) const'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2424): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2424): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'const _Elem *' from 'std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2414): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2400): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(std::basic_string<_Elem,_Traits,_Alloc> &&,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &&' from 'std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2390): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &&)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2380): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2366): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2352): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc>' from 'unsigned int (void) const'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2338): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2338): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const _Elem *,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const _Elem *' from 'std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2324): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::basic_string<_Elem,_Traits,_Alloc> std::operator +(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2310): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_String_iterator<_Mystr> std::operator +(_String_iterator<_Mystr>::difference_type,std::_String_iterator<_Mystr>)': could not deduce template argument for 'std::_String_iterator<_Mystr>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(425): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_String_iterator<_Mystr> std::operator +(_String_iterator<_Mystr>::difference_type,std::_String_iterator<_Mystr>)': could not deduce template argument for 'std::_String_iterator<_Mystr>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(425): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_String_const_iterator<_Mystr> std::operator +(_String_const_iterator<_Mystr>::difference_type,std::_String_const_iterator<_Mystr>)': could not deduce template argument for 'std::_String_const_iterator<_Mystr>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(293): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_String_const_iterator<_Mystr> std::operator +(_String_const_iterator<_Mystr>::difference_type,std::_String_const_iterator<_Mystr>)': could not deduce template argument for 'std::_String_const_iterator<_Mystr>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(293): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::move_iterator<_RanIt> std::operator +(_Diff,const std::move_iterator<_RanIt> &)': could not deduce template argument for 'const std::move_iterator<_RanIt>' from 'unsigned int (void) const'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2195): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::move_iterator<_RanIt> std::operator +(_Diff,const std::move_iterator<_RanIt> &)': could not deduce template argument for 'const std::move_iterator<_RanIt> &' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2195): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Array_iterator<_Ty,_Size> std::operator +(_Array_iterator<_Ty,_Size>::difference_type,std::_Array_iterator<_Ty,_Size>)': could not deduce template argument for 'std::_Array_iterator<_Ty,_Size>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2046): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Array_iterator<_Ty,_Size> std::operator +(_Array_iterator<_Ty,_Size>::difference_type,std::_Array_iterator<_Ty,_Size>)': could not deduce template argument for 'std::_Array_iterator<_Ty,_Size>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2046): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Array_const_iterator<_Ty,_Size> std::operator +(_Array_const_iterator<_Ty,_Size>::difference_type,std::_Array_const_iterator<_Ty,_Size>)': could not deduce template argument for 'std::_Array_const_iterator<_Ty,_Size>' from 'unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) const'
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1910): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::_Array_const_iterator<_Ty,_Size> std::operator +(_Array_const_iterator<_Ty,_Size>::difference_type,std::_Array_const_iterator<_Ty,_Size>)': could not deduce template argument for 'std::_Array_const_iterator<_Ty,_Size>' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1910): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::reverse_iterator<_RanIt> std::operator +(reverse_iterator<_RanIt>::difference_type,const std::reverse_iterator<_RanIt> &)': could not deduce template argument for 'const std::reverse_iterator<_RanIt>' from 'unsigned int (void) const'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1280): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2784: 'std::reverse_iterator<_RanIt> std::operator +(reverse_iterator<_RanIt>::difference_type,const std::reverse_iterator<_RanIt> &)': could not deduce template argument for 'const std::reverse_iterator<_RanIt> &' from 'overloaded-function'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1280): note: see declaration of 'std::operator +'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2676: binary '+': 'std::vector<int,std::allocator<_Ty>>' does not define this operator or a conversion to a type acceptable to the predefined operator
+          with
+          [
+              _Ty=int
+          ]
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2672: 'min_element': no matching overloaded function found
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2780: '_FwdIt std::min_element(_FwdIt,_FwdIt)': expects 2 arguments - 1 provided
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3520): note: see declaration of 'std::min_element'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2780: '_FwdIt std::min_element(_FwdIt,_FwdIt,_Pr)': expects 3 arguments - 1 provided
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3511): note: see declaration of 'std::min_element'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2672: 'std::max': no matching overloaded function found
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2780: '_Ty std::max(std::initializer_list<_Elem>)': expects 1 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3617): note: see declaration of 'std::max'
+c:\users\jason\documents\visual studio 2015\projects\project8\project8\source.cpp(12): error C2780: 'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(3588): note: see declaration of 'std::max'
